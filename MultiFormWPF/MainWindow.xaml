@@ -15,5 +15,9 @@
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
+        <local:UserControl1 VerticalContentAlignment="Center"></local:UserControl1>
+        <local:UserControl1 VerticalContentAlignment="Center" Grid.Column="1"></local:UserControl1>
+        <local:UserControl1 VerticalContentAlignment="Center" Grid.Row="1"></local:UserControl1>
+        <local:UserControl1 VerticalContentAlignment="Center" Grid.Column="1" Grid.Row="1"></local:UserControl1>
     </Grid>
 </Window>

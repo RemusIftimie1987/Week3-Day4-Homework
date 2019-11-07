@@ -28,7 +28,7 @@ namespace MultiFormWPF
             DrawSemaphor(sem.getColorOn());
 
             DispatcherTimer dt = new DispatcherTimer();
-            dt.Interval = new TimeSpan(0, 0, 0, 20); //change color every 20 seconds
+            dt.Interval = new TimeSpan(0, 0, 0, 10); //change color every 20 seconds
             dt.Tick += ChangeColor; 
             dt.Start();
         }

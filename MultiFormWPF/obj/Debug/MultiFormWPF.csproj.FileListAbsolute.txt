@@ -15,3 +15,4 @@ C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\
 C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.csproj.CoreCompileInputs.cache
 C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.exe
 C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.pdb
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs

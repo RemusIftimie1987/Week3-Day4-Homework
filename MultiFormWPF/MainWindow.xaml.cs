@@ -26,6 +26,9 @@ namespace MultiFormWPF
         }
     }
 }
+
+// on the Designer XAML just before xmlns:local add:
+//xmlns:...="clr-namespace:OtherNamespace"; assembly=OtherNamespace"
 //On the Designer XAML just before the grid ending add:
 //< ...:UserControl1 VerticalContentAlignment="Center"></...:UserControl1>
 //< ...:UserControl1 VerticalContentAlignment="Center" Grid.Column="1"></...:UserControl1>
