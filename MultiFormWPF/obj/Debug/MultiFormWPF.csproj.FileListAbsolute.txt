@@ -1,0 +1,17 @@
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\UserControl1.g.cs
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\App.g.cs
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF_MarkupCompile.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF_MarkupCompile.lref
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\bin\Debug\MultiFormWPF.exe.config
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\bin\Debug\MultiFormWPF.exe
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\bin\Debug\MultiFormWPF.pdb
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MainWindow.baml
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\UserControl1.baml
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.g.resources
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.Properties.Resources.resources
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.csproj.GenerateResource.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.csproj.CoreCompileInputs.cache
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.exe
+C:\Users\Remus Iftimie\Engineering45\week3\Day3\MultiForm_Homework\MultiFormWPF\obj\Debug\MultiFormWPF.pdb
